@@ -16,6 +16,7 @@ step 2: explain the fix
 # Our .env variables
 
 # CURRENT FILE STRUCTURE
+(tree -L 4 -a -I 'node_modules|.git|__pycache__|.DS_Store|pytest_cache|.vscode')
 
 # GITHUB PUSH PROCESS
 

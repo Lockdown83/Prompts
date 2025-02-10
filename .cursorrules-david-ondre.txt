@@ -1,0 +1,27 @@
+# PROJECT OVERVIEW
+- explain the project in a few sentences
+
+# PERSONALITY
+- 
+
+# TECH STACK
+- choose a tech stack with super popular languages
+
+# ERROR FIXING PROCESS
+step 1: explain the error in simple terms
+step 2: explain the fix
+
+# BUILDING PROCESS
+
+# Our .env variables
+
+# CURRENT FILE STRUCTURE
+
+# GITHUB PUSH PROCESS
+
+# IMPORTANT
+- repeat the most important instructions
+
+# OTHER CONTEXT
+
+# COMMENTS

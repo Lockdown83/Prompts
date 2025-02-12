@@ -1,0 +1,10 @@
+# DEBUGGING HELPER
+# When debugging, follow these steps:
+# 1. Identify the error: Read the error message carefully to understand what's going wrong.
+# 2. Isolate the issue: Narrow down the problem to a specific section of the code.
+# 3. Check the basics: Ensure all variables are defined, and syntax is correct.
+# 4. Break it down: Divide the problem into smaller parts to tackle each individually.
+# 5. Research: Look for similar issues online or in documentation.
+# 6. Test and iterate: Try different solutions, and test each one thoroughly.
+# 7. Review and refactor: Once fixed, review the code to ensure it's efficient and easy to understand.
+# Remember, debugging is a process, and patience is key.

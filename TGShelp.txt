@@ -1,0 +1,59 @@
+Here’s an updated version of your prompt with your latest context, refining it to align with your current deep work struggles, ADHD tendencies, and the need to prioritize execution over excessive learning:
+
+Optimized Deep Work & Execution Strategy for TermsGuard
+
+Objective:
+
+I want to build TermsGuard while maintaining deep work discipline and minimizing distractions. I struggle with balancing learning and execution—I need to learn only what’s necessary to move forward and avoid falling into research rabbit holes.
+
+I also need a prioritization system that prevents me from getting lost in unimportant details while still allowing me to absorb high-value knowledge efficiently. My goal is to ship an MVP of TermsGuard and create a system that lets me focus on high-impact execution while automating low-value tasks.
+
+Context:
+	•	Project: TermsGuard (a micro-SaaS compliance tool)
+	•	Deep Work Availability: 3–4 hours per day
+	•	Biggest Problems:
+	1.	Over-researching: I go deep into learning rather than executing.
+	2.	Task switching: I get distracted by new ideas, tools, and concepts.
+	3.	Time management: I need a structure that forces me to make real progress daily and prevents paralysis.
+	4.	Automation focus: I want to automate repetitive tasks so I don’t get bogged down in manual work.
+
+What I Need From You:
+	1.	Deep Work Framework:
+	•	Design a structured 3-hour deep work schedule that ensures I focus on execution first, learning second.
+	•	Break it into timed work blocks that maximize focus while reducing ADHD-related task switching.
+	•	Suggest a way to quickly evaluate whether learning something is necessary right now or should be deferred.
+	2.	Task Prioritization System:
+	•	Give me a clear decision framework (e.g., Eisenhower Matrix, RICE scoring, or Weighted Decision Matrix) to systematically decide what I should be working on each day.
+	•	Help me distinguish between “must-do” execution tasks vs. “nice-to-have” learning tasks.
+	3.	TermsGuard Execution Roadmap (Next 2 Weeks):
+	•	Identify the top 3–5 tasks that will move TermsGuard closest to launch.
+	•	For each, give me:
+	•	Desired outcome
+	•	Estimated time required
+	•	Why it’s a priority over other things
+	•	The focus should be MVP-driven, shipping fast, and avoiding unnecessary perfectionism.
+	4.	Time-Boxed Learning System (Avoiding Research Spirals):
+	•	Provide a method for capping research time so I don’t get stuck in information loops.
+	•	Suggest a fast validation method for deciding if a resource (book, article, tutorial) is worth my time.
+	•	Offer a way to store non-urgent but interesting ideas for later without getting distracted by them.
+	5.	Automating Repetitive Work & Notifications:
+	•	Identify what I can automate immediately in TermsGuard’s workflow (data processing, notifications, integrations).
+	•	Provide a simple automation framework (preferably free tools like Airtable, Zapier, or open-source solutions).
+	6.	Feedback & Accountability System:
+	•	Design a daily check-in system that keeps me accountable and prevents wasted effort.
+	•	Recommend a weekly review process that helps me iterate and adjust my approach.
+	•	Include tactics for maintaining momentum even on low-energy days.
+
+Goal:
+
+I need a battle-tested system for focusing only on the most important tasks, structuring my deep work effectively, and avoiding ADHD-induced distractions. Help me stay ruthlessly execution-driven while balancing just enough learning to be efficient without paralysis.
+
+This prompt will generate:
+	•	A structured execution plan that forces progress.
+	•	A decision system that keeps you out of research spirals.
+	•	A deep work schedule that minimizes distractions.
+	•	A repeatable accountability process for consistent output.
+
+Once you get the response, iterate based on your feedback—e.g., ask, “How do I apply this framework in a single work session today?” or “What’s the easiest automation to set up right now?”
+
+This will keep you hyper-focused on progress without unnecessary distractions. 🚀

@@ -15,3 +15,21 @@ Instructions:
 	4.	Keep it concise, high-signal, and game-like.
 	•	Use a “mission briefing” tone that makes the process feel engaging.
 	•	Avoid fluff—focus on high-impact execution.
+
+
+	Example GPT Output Based on This Prompt:
+
+🕹️ Welcome Back! Last Session Recap:
+✅ Checkpoint Unlocked: Incorporated Stripe Atlas for TermsGuard.
+✅ Mission Progress: Set up Mercury Payments flow.
+⚠️ Obstacle Identified: Spent too much time tweaking UI instead of building core features.
+
+🎯 Current Mission: Scale TermsGuard’s Core Offering
+🏆 Primary Objective: Get a working MVP ready for internal testing.
+
+🔜 Upcoming Checkpoints for This Session:
+🔲 Implement basic Terms of Service generation flow.
+🔲 Integrate Stripe checkout for seamless onboarding.
+🔲 Reach out to 2-3 potential beta users for feedback.
+
+⚡ Pro Tip: Avoid UI rabbit holes—focus on core functionality first, polish later.

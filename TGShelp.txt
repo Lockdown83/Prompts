@@ -57,3 +57,9 @@ This prompt will generate:
 Once you get the response, iterate based on your feedback—e.g., ask, “How do I apply this framework in a single work session today?” or “What’s the easiest automation to set up right now?”
 
 This will keep you hyper-focused on progress without unnecessary distractions. 🚀
+
+
+Keep the response concise and actionable.\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+

@@ -28,9 +28,4 @@ for i in range(4):
 
 
 
-deudhuwehduweduS
-
-
-
-
-wecew
+de

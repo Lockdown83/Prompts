@@ -34,15 +34,3 @@ deudhuwehduweduS
 
 
 wecew
-
-whilee
-
-elifd
-elifd
-
-ed
-d
-elifd
-defdwwddwd
-
-ew

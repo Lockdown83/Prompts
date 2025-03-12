@@ -46,5 +46,3 @@ elifd
 defdwwddwd
 
 ew
-defe
-ed
